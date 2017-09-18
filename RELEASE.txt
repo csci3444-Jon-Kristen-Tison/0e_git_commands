@@ -1,6 +1,2 @@
-On branch master
-Changes not staged for commit:
-	modified:   RELEASE.txt
-
-no changes added to commit
-This is release v1.1
+[master aaea1c5] changed release version to v0.1.1
+ 1 file changed, 6 insertions(+), 1 deletion(-)
