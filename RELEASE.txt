@@ -1,1 +1,6 @@
-This is release vo.1
+On branch master
+Changes not staged for commit:
+	modified:   RELEASE.txt
+
+no changes added to commit
+This is release v1.1
